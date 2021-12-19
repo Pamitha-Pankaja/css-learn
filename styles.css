@@ -22,7 +22,7 @@ li:last-child{
 }
 
 #google-link:link{
-    color: black;
+    color: rgb(34, 14, 14);
 }
 #google-link:visited{
    color:blue;
